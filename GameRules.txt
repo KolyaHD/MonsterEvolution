@@ -1,0 +1,15 @@
+Rules for MonsterEvolution
+
+This game is a basic dungeon crawler, the board is made up of tiles with dimensions 10*20.
+The game supports games with 1 or 2 players.
+The dungeon is populated by different monsters, which can be captured.
+Captured monsters go into the players inventory.
+Once the player has captured 5 monsters of the same type, this monster evolves into an evolved monster, provided the player doesn’t already possess an evolved monster.
+Only once the player has an evolved monster, he may challenge the boss on the very right.
+If the player wins the fight, he wins the game. If not, he loses. 
+
+Basic Gameplay:
+•	Use w/a/s/d for movement
+	a.	Instead, you may type ‘inventory’ to see your inventory, or ‘visible’ to show all monster locations on the map.
+•	For special events, simply follow in-game instructions
+•	Evolve monsters to beat the boss
